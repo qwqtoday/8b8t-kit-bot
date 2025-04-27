@@ -1,8 +1,3 @@
-# my-typescript-project-template
-the typescript project template that I use to quickly setup a new project
+# 8b8t-kit-bot
+Cool open source 8b8t kit bot written using mineflayer in Typescript.
 
-
-## Setup
-- 1. Make a repo with this template
-- 2. Modify name and description in `package.json` 
-- 3. Done. You can start write code inside `src/index.ts` now
